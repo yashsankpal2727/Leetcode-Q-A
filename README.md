@@ -27,8 +27,10 @@
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0125-valid-palindrome/) | Easy |
+| [0283-move-zeroes](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0283-move-zeroes/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0283-move-zeroes](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0283-move-zeroes/) | Easy |
 <!---LeetCode Topics End-->
