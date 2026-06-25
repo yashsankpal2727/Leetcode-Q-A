@@ -8,6 +8,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0125-valid-palindrome](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0125-valid-palindrome/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/1189-maximum-number-of-balloons/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
@@ -21,4 +22,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/3700-number-of-zigzag-arrays-ii/) | Hard |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0125-valid-palindrome](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0125-valid-palindrome/) | Easy |
 <!---LeetCode Topics End-->
