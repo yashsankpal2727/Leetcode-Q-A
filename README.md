@@ -4,6 +4,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0001-two-sum/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/1189-maximum-number-of-balloons/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -35,6 +36,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0001-two-sum/) | Easy |
 | [0011-container-with-most-water](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
