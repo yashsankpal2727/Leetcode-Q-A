@@ -68,6 +68,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0042-trapping-rain-water/) | Hard |
+| [0155-min-stack](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0155-min-stack/) | Medium |
 | [0496-next-greater-element-i](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0496-next-greater-element-i/) | Easy |
 | [0901-online-stock-span](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0901-online-stock-span/) | Medium |
 ## Monotonic Stack
@@ -103,6 +104,7 @@
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0155-min-stack](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0155-min-stack/) | Medium |
 | [0901-online-stock-span](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0901-online-stock-span/) | Medium |
 ## Data Stream
 | Problem Name | Difficulty |
