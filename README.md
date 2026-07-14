@@ -8,6 +8,7 @@
 | [0013-roman-to-integer](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0013-roman-to-integer/) | Easy |
 | [0496-next-greater-element-i](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0496-next-greater-element-i/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/1189-maximum-number-of-balloons/) | Easy |
+| [1207-unique-number-of-occurrences](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/1207-unique-number-of-occurrences/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -58,6 +59,7 @@
 | [0051-n-queens](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0051-n-queens/) | Hard |
 | [0283-move-zeroes](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0283-move-zeroes/) | Easy |
 | [0496-next-greater-element-i](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0496-next-greater-element-i/) | Easy |
+| [1207-unique-number-of-occurrences](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1301-number-of-paths-with-max-score](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 ## Greedy
