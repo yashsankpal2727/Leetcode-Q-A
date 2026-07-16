@@ -45,6 +45,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0042-trapping-rain-water](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0042-trapping-rain-water/) | Hard |
+| [0088-merge-sorted-array](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0125-valid-palindrome/) | Easy |
 | [0283-move-zeroes](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0344-reverse-string/) | Easy |
@@ -59,6 +60,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0042-trapping-rain-water](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0042-trapping-rain-water/) | Hard |
 | [0051-n-queens](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0051-n-queens/) | Hard |
+| [0088-merge-sorted-array](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0088-merge-sorted-array/) | Easy |
 | [0283-move-zeroes](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0283-move-zeroes/) | Easy |
 | [0496-next-greater-element-i](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0496-next-greater-element-i/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0905-sort-array-by-parity/) | Easy |
@@ -74,6 +76,7 @@
 | ------- | ------- |
 | [0015-3sum](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0018-4sum/) | Medium |
+| [0088-merge-sorted-array](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0088-merge-sorted-array/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0905-sort-array-by-parity/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
