@@ -68,6 +68,7 @@
 | [0645-set-mismatch](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0645-set-mismatch/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0905-sort-array-by-parity/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/1207-unique-number-of-occurrences/) | Easy |
+| [1260-shift-2d-grid](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/1260-shift-2d-grid/) | Easy |
 | [1301-number-of-paths-with-max-score](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -119,6 +120,7 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1260-shift-2d-grid](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/1260-shift-2d-grid/) | Easy |
 | [1301-number-of-paths-with-max-score](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 ## Design
 | Problem Name | Difficulty |
@@ -154,4 +156,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0645-set-mismatch](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0645-set-mismatch/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1260-shift-2d-grid](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/1260-shift-2d-grid/) | Easy |
 <!---LeetCode Topics End-->
