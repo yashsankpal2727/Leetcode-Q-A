@@ -27,6 +27,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0007-reverse-integer](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0007-reverse-integer/) | Medium |
 | [0013-roman-to-integer](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0013-roman-to-integer/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
