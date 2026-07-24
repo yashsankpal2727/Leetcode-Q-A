@@ -58,6 +58,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0001-two-sum/) | Easy |
+| [0004-median-of-two-sorted-arrays](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0011-container-with-most-water](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0018-4sum/) | Medium |
@@ -164,4 +165,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1260-shift-2d-grid](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/1260-shift-2d-grid/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 <!---LeetCode Topics End-->
