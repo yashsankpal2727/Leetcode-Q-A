@@ -19,6 +19,7 @@
 | [0125-valid-palindrome](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0125-valid-palindrome/) | Easy |
 | [0344-reverse-string](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0344-reverse-string/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/1189-maximum-number-of-balloons/) | Easy |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 ## Counting
@@ -97,6 +98,7 @@
 | [0155-min-stack](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0155-min-stack/) | Medium |
 | [0496-next-greater-element-i](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0496-next-greater-element-i/) | Easy |
 | [0901-online-stock-span](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0901-online-stock-span/) | Medium |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -167,6 +169,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1260-shift-2d-grid](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/1260-shift-2d-grid/) | Easy |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
