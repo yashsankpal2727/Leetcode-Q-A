@@ -23,6 +23,7 @@
 | [1189-maximum-number-of-balloons](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 ## Counting
@@ -36,6 +37,7 @@
 | [0007-reverse-integer](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0007-reverse-integer/) | Medium |
 | [0013-roman-to-integer](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0013-roman-to-integer/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3536-maximum-product-of-two-digits](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
@@ -87,6 +89,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0011-container-with-most-water/) | Medium |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
