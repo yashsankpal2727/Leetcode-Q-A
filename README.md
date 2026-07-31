@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0001-two-sum/) | Easy |
 | [0013-roman-to-integer](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0013-roman-to-integer/) | Easy |
+| [0037-sudoku-solver](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0037-sudoku-solver/) | Hard |
 | [0496-next-greater-element-i](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0496-next-greater-element-i/) | Easy |
 | [0645-set-mismatch](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0645-set-mismatch/) | Easy |
 | [0997-find-the-town-judge](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0997-find-the-town-judge/) | Easy |
@@ -72,6 +73,7 @@
 | [0015-3sum](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0018-4sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0037-sudoku-solver](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0037-sudoku-solver/) | Hard |
 | [0042-trapping-rain-water](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0042-trapping-rain-water/) | Hard |
 | [0051-n-queens](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0051-n-queens/) | Hard |
 | [0088-merge-sorted-array](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0088-merge-sorted-array/) | Easy |
@@ -116,6 +118,7 @@
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0037-sudoku-solver](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0037-sudoku-solver/) | Hard |
 | [0051-n-queens](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0051-n-queens/) | Hard |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -137,6 +140,7 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0037-sudoku-solver](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0037-sudoku-solver/) | Hard |
 | [1260-shift-2d-grid](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/1260-shift-2d-grid/) | Easy |
 | [1301-number-of-paths-with-max-score](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 ## Design
