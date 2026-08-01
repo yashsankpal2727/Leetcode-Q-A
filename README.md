@@ -37,6 +37,7 @@
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0007-reverse-integer/) | Medium |
 | [0013-roman-to-integer](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0013-roman-to-integer/) | Easy |
+| [0486-predict-the-winner](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0486-predict-the-winner/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
@@ -48,6 +49,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0042-trapping-rain-water/) | Hard |
+| [0486-predict-the-winner](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0486-predict-the-winner/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/3700-number-of-zigzag-arrays-ii/) | Hard |
 ## Two Pointers
@@ -78,6 +80,7 @@
 | [0051-n-queens](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0051-n-queens/) | Hard |
 | [0088-merge-sorted-array](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0088-merge-sorted-array/) | Easy |
 | [0283-move-zeroes](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0283-move-zeroes/) | Easy |
+| [0486-predict-the-winner](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0486-predict-the-winner/) | Medium |
 | [0496-next-greater-element-i](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0496-next-greater-element-i/) | Easy |
 | [0645-set-mismatch](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0645-set-mismatch/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0905-sort-array-by-parity/) | Easy |
@@ -164,6 +167,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0486-predict-the-winner](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0486-predict-the-winner/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -194,4 +198,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0486-predict-the-winner](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0486-predict-the-winner/) | Medium |
 <!---LeetCode Topics End-->
