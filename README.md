@@ -22,6 +22,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0125-valid-palindrome](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0125-valid-palindrome/) | Easy |
 | [0344-reverse-string](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0344-reverse-string/) | Easy |
+| [0443-string-compression](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0443-string-compression/) | Medium |
 | [0567-permutation-in-string](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0567-permutation-in-string/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
@@ -67,6 +68,7 @@
 | [0125-valid-palindrome](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0125-valid-palindrome/) | Easy |
 | [0283-move-zeroes](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0344-reverse-string/) | Easy |
+| [0443-string-compression](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0443-string-compression/) | Medium |
 | [0567-permutation-in-string](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0567-permutation-in-string/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0905-sort-array-by-parity/) | Easy |
 ## Array
