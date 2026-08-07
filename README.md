@@ -80,6 +80,7 @@
 | [0015-3sum](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0018-4sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0035-search-insert-position](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0035-search-insert-position/) | Easy |
 | [0037-sudoku-solver](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0037-sudoku-solver/) | Hard |
 | [0042-trapping-rain-water](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0042-trapping-rain-water/) | Hard |
 | [0051-n-queens](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0051-n-queens/) | Hard |
@@ -198,6 +199,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0035-search-insert-position](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0035-search-insert-position/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
