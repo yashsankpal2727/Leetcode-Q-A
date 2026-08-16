@@ -89,6 +89,7 @@
 | [0042-trapping-rain-water](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0042-trapping-rain-water/) | Hard |
 | [0051-n-queens](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0051-n-queens/) | Hard |
 | [0066-plus-one](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0066-plus-one/) | Easy |
+| [0078-subsets](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0078-subsets/) | Medium |
 | [0088-merge-sorted-array](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0088-merge-sorted-array/) | Easy |
 | [0283-move-zeroes](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0283-move-zeroes/) | Easy |
 | [0486-predict-the-winner](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0486-predict-the-winner/) | Medium |
@@ -136,6 +137,7 @@
 | ------- | ------- |
 | [0037-sudoku-solver](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0037-sudoku-solver/) | Hard |
 | [0051-n-queens](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0051-n-queens/) | Hard |
+| [0078-subsets](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0078-subsets/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -196,6 +198,7 @@
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0078-subsets](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0078-subsets/) | Medium |
 | [0645-set-mismatch](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0645-set-mismatch/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
