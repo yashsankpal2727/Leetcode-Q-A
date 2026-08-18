@@ -15,6 +15,7 @@
 | [1207-unique-number-of-occurrences](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 ## String
 | Problem Name | Difficulty |
@@ -103,6 +104,7 @@
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
