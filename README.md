@@ -13,6 +13,7 @@
 | [0997-find-the-town-judge](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0997-find-the-town-judge/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/1207-unique-number-of-occurrences/) | Easy |
+| [1386-cinema-seat-allocation](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
@@ -101,6 +102,7 @@
 | [1207-unique-number-of-occurrences](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1260-shift-2d-grid](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/1260-shift-2d-grid/) | Easy |
 | [1301-number-of-paths-with-max-score](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/1301-number-of-paths-with-max-score/) | Hard |
+| [1386-cinema-seat-allocation](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
@@ -109,6 +111,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0011-container-with-most-water/) | Medium |
+| [1386-cinema-seat-allocation](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -202,6 +205,7 @@
 | ------- | ------- |
 | [0078-subsets](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0078-subsets/) | Medium |
 | [0645-set-mismatch](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0645-set-mismatch/) | Easy |
+| [1386-cinema-seat-allocation](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/1386-cinema-seat-allocation/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
