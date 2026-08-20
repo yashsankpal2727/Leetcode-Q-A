@@ -106,6 +106,7 @@
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
@@ -211,6 +212,7 @@
 | ------- | ------- |
 | [1260-shift-2d-grid](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/1260-shift-2d-grid/) | Easy |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
