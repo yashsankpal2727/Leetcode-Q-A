@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0001-two-sum/) | Easy |
 | [0013-roman-to-integer](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0013-roman-to-integer/) | Easy |
 | [0037-sudoku-solver](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0037-sudoku-solver/) | Hard |
+| [0217-contains-duplicate](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0217-contains-duplicate/) | Easy |
 | [0496-next-greater-element-i](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0496-next-greater-element-i/) | Easy |
 | [0567-permutation-in-string](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0567-permutation-in-string/) | Medium |
 | [0645-set-mismatch](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0645-set-mismatch/) | Easy |
@@ -98,6 +99,7 @@
 | [0066-plus-one](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0066-plus-one/) | Easy |
 | [0078-subsets](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0078-subsets/) | Medium |
 | [0088-merge-sorted-array](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0088-merge-sorted-array/) | Easy |
+| [0217-contains-duplicate](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0217-contains-duplicate/) | Easy |
 | [0283-move-zeroes](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0283-move-zeroes/) | Easy |
 | [0486-predict-the-winner](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0486-predict-the-winner/) | Medium |
 | [0496-next-greater-element-i](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0496-next-greater-element-i/) | Easy |
@@ -129,6 +131,7 @@
 | [0016-3sum-closest](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0018-4sum/) | Medium |
 | [0088-merge-sorted-array](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0088-merge-sorted-array/) | Easy |
+| [0217-contains-duplicate](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0217-contains-duplicate/) | Easy |
 | [0561-array-partition](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0561-array-partition/) | Easy |
 | [0645-set-mismatch](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0645-set-mismatch/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0905-sort-array-by-parity/) | Easy |
