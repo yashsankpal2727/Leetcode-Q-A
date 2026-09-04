@@ -118,6 +118,7 @@
 | [1260-shift-2d-grid](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/1260-shift-2d-grid/) | Easy |
 | [1301-number-of-paths-with-max-score](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1386-cinema-seat-allocation](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/1386-cinema-seat-allocation/) | Medium |
+| [1480-running-sum-of-1d-array](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
@@ -212,6 +213,7 @@
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1480-running-sum-of-1d-array](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 | [3903-smallest-stable-index-i](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## Linked List
