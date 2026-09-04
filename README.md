@@ -119,6 +119,7 @@
 | [1301-number-of-paths-with-max-score](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1386-cinema-seat-allocation](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [1929-concatenation-of-array](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/1929-concatenation-of-array/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
@@ -248,6 +249,7 @@
 | ------- | ------- |
 | [1260-shift-2d-grid](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/1260-shift-2d-grid/) | Easy |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
+| [1929-concatenation-of-array](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/1929-concatenation-of-array/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
