@@ -112,6 +112,7 @@
 | [0496-next-greater-element-i](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0496-next-greater-element-i/) | Easy |
 | [0561-array-partition](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0561-array-partition/) | Easy |
 | [0645-set-mismatch](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0645-set-mismatch/) | Easy |
+| [0896-monotonic-array](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0896-monotonic-array/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0997-find-the-town-judge](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0997-find-the-town-judge/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/1207-unique-number-of-occurrences/) | Easy |
