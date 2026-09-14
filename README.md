@@ -55,6 +55,7 @@
 | [0066-plus-one](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0066-plus-one/) | Easy |
 | [0268-missing-number](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0268-missing-number/) | Easy |
 | [0486-predict-the-winner](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0486-predict-the-winner/) | Medium |
+| [0836-rectangle-overlap](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0836-rectangle-overlap/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
@@ -309,4 +310,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0836-rectangle-overlap](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0836-rectangle-overlap/) | Easy |
 <!---LeetCode Topics End-->
