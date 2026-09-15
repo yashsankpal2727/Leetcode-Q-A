@@ -59,6 +59,7 @@
 | [0486-predict-the-winner](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0486-predict-the-winner/) | Medium |
 | [0836-rectangle-overlap](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0836-rectangle-overlap/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
+| [1822-sign-of-the-product-of-an-array](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
@@ -131,6 +132,7 @@
 | [1386-cinema-seat-allocation](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/1672-richest-customer-wealth/) | Easy |
+| [1822-sign-of-the-product-of-an-array](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
 | [1929-concatenation-of-array](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/1929-concatenation-of-array/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
