@@ -65,6 +65,7 @@
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3536-maximum-product-of-two-digits](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/3536-maximum-product-of-two-digits/) | Easy |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/3700-number-of-zigzag-arrays-ii/) | Hard |
@@ -144,6 +145,7 @@
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
