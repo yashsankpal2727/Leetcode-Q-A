@@ -8,6 +8,7 @@
 | [0013-roman-to-integer](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0013-roman-to-integer/) | Easy |
 | [0037-sudoku-solver](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0037-sudoku-solver/) | Hard |
 | [0217-contains-duplicate](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0217-contains-duplicate/) | Easy |
+| [0219-contains-duplicate-ii](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0268-missing-number](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0268-missing-number/) | Easy |
 | [0496-next-greater-element-i](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0496-next-greater-element-i/) | Easy |
 | [0567-permutation-in-string](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0567-permutation-in-string/) | Medium |
@@ -118,6 +119,7 @@
 | [0078-subsets](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0078-subsets/) | Medium |
 | [0088-merge-sorted-array](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0088-merge-sorted-array/) | Easy |
 | [0217-contains-duplicate](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0217-contains-duplicate/) | Easy |
+| [0219-contains-duplicate-ii](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0268-missing-number](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0283-move-zeroes/) | Easy |
 | [0486-predict-the-winner](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0486-predict-the-winner/) | Medium |
@@ -303,6 +305,7 @@
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0219-contains-duplicate-ii](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0567-permutation-in-string](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0567-permutation-in-string/) | Medium |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
