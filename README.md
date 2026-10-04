@@ -35,6 +35,7 @@
 | [0344-reverse-string](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0344-reverse-string/) | Easy |
 | [0443-string-compression](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0443-string-compression/) | Medium |
 | [0567-permutation-in-string](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0567-permutation-in-string/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
@@ -80,6 +81,7 @@
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0042-trapping-rain-water/) | Hard |
 | [0486-predict-the-winner](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0486-predict-the-winner/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/3700-number-of-zigzag-arrays-ii/) | Hard |
 ## Two Pointers
@@ -160,6 +162,7 @@
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0011-container-with-most-water/) | Medium |
 | [0561-array-partition](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0561-array-partition/) | Easy |
+| [0678-valid-parenthesis-string](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 ## Sorting
@@ -183,6 +186,7 @@
 | [0042-trapping-rain-water](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0042-trapping-rain-water/) | Hard |
 | [0155-min-stack](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0155-min-stack/) | Medium |
 | [0496-next-greater-element-i](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0496-next-greater-element-i/) | Easy |
+| [0678-valid-parenthesis-string](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0901-online-stock-span](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0901-online-stock-span/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
@@ -336,5 +340,6 @@
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0678-valid-parenthesis-string](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 <!---LeetCode Topics End-->
