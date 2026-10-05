@@ -36,6 +36,7 @@
 | [0443-string-compression](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0443-string-compression/) | Medium |
 | [0567-permutation-in-string](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0567-permutation-in-string/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [0856-score-of-parentheses](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0856-score-of-parentheses/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
@@ -187,6 +188,7 @@
 | [0155-min-stack](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0155-min-stack/) | Medium |
 | [0496-next-greater-element-i](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0496-next-greater-element-i/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [0856-score-of-parentheses](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0856-score-of-parentheses/) | Medium |
 | [0901-online-stock-span](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0901-online-stock-span/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
@@ -341,5 +343,6 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0678-valid-parenthesis-string](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [0856-score-of-parentheses](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0856-score-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 <!---LeetCode Topics End-->
