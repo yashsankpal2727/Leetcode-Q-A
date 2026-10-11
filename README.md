@@ -147,6 +147,7 @@
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
+| [2778-sum-of-squares-of-special-elements](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
@@ -334,6 +335,7 @@
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Geometry
 | Problem Name | Difficulty |
