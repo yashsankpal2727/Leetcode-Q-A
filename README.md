@@ -122,6 +122,7 @@
 | [0037-sudoku-solver](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0037-sudoku-solver/) | Hard |
 | [0039-combination-sum](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0039-combination-sum/) | Medium |
 | [0042-trapping-rain-water](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0042-trapping-rain-water/) | Hard |
+| [0047-permutations-ii](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0047-permutations-ii/) | Medium |
 | [0051-n-queens](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0051-n-queens/) | Hard |
 | [0066-plus-one](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0066-plus-one/) | Easy |
 | [0078-subsets](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0078-subsets/) | Medium |
@@ -182,6 +183,7 @@
 | [0015-3sum](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0018-4sum/) | Medium |
+| [0047-permutations-ii](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0047-permutations-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0088-merge-sorted-array/) | Easy |
 | [0217-contains-duplicate](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0268-missing-number/) | Easy |
@@ -214,6 +216,7 @@
 | ------- | ------- |
 | [0037-sudoku-solver](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0037-sudoku-solver/) | Hard |
 | [0039-combination-sum](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0039-combination-sum/) | Medium |
+| [0047-permutations-ii](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0047-permutations-ii/) | Medium |
 | [0051-n-queens](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0051-n-queens/) | Hard |
 | [0078-subsets](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0078-subsets/) | Medium |
 ## Depth-First Search
