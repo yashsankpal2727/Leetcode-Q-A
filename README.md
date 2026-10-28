@@ -62,6 +62,7 @@
 | [0013-roman-to-integer](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0013-roman-to-integer/) | Easy |
 | [0066-plus-one](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0066-plus-one/) | Easy |
 | [0067-add-binary](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0067-add-binary/) | Easy |
+| [0070-climbing-stairs](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0070-climbing-stairs/) | Easy |
 | [0268-missing-number](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0268-missing-number/) | Easy |
 | [0486-predict-the-winner](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0486-predict-the-winner/) | Medium |
 | [0836-rectangle-overlap](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0836-rectangle-overlap/) | Easy |
@@ -84,6 +85,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0042-trapping-rain-water/) | Hard |
+| [0070-climbing-stairs](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0070-climbing-stairs/) | Easy |
 | [0486-predict-the-winner](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0486-predict-the-winner/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/1301-number-of-paths-with-max-score/) | Hard |
@@ -369,4 +371,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0070-climbing-stairs/) | Easy |
 <!---LeetCode Topics End-->
