@@ -60,6 +60,7 @@
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0007-reverse-integer/) | Medium |
 | [0013-roman-to-integer](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0013-roman-to-integer/) | Easy |
+| [0029-divide-two-integers](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0029-divide-two-integers/) | Medium |
 | [0066-plus-one](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0066-plus-one/) | Easy |
 | [0067-add-binary](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0067-add-binary/) | Easy |
 | [0069-sqrtx](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0069-sqrtx/) | Easy |
@@ -293,6 +294,7 @@
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0029-divide-two-integers](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0029-divide-two-integers/) | Medium |
 | [0067-add-binary](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0067-add-binary/) | Easy |
 | [0078-subsets](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0078-subsets/) | Medium |
 | [0268-missing-number](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0268-missing-number/) | Easy |
