@@ -62,6 +62,7 @@
 | [0013-roman-to-integer](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0013-roman-to-integer/) | Easy |
 | [0066-plus-one](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0066-plus-one/) | Easy |
 | [0067-add-binary](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0067-add-binary/) | Easy |
+| [0069-sqrtx](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0070-climbing-stairs/) | Easy |
 | [0268-missing-number](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0268-missing-number/) | Easy |
 | [0486-predict-the-winner](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0486-predict-the-winner/) | Medium |
@@ -316,6 +317,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0035-search-insert-position/) | Easy |
+| [0069-sqrtx](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0069-sqrtx/) | Easy |
 | [0268-missing-number](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0268-missing-number/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -375,4 +377,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0070-climbing-stairs/) | Easy |
+## Newton's Method
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0069-sqrtx](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0069-sqrtx/) | Easy |
 <!---LeetCode Topics End-->
