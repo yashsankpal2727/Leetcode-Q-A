@@ -79,6 +79,7 @@
 | [3658-gcd-of-odd-and-even-sums](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/3700-number-of-zigzag-arrays-ii/) | Hard |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 | [3870-count-commas-in-range](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/3870-count-commas-in-range/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
@@ -167,6 +168,7 @@
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 | [3903-smallest-stable-index-i](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/3903-smallest-stable-index-i/) | Easy |
