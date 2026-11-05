@@ -111,6 +111,7 @@
 | [0443-string-compression](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0443-string-compression/) | Medium |
 | [0567-permutation-in-string](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0567-permutation-in-string/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0905-sort-array-by-parity/) | Easy |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -148,6 +149,7 @@
 | [1260-shift-2d-grid](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/1260-shift-2d-grid/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1301-number-of-paths-with-max-score](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/1301-number-of-paths-with-max-score/) | Hard |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/1672-richest-customer-wealth/) | Easy |
@@ -196,6 +198,7 @@
 | [0561-array-partition](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0561-array-partition/) | Easy |
 | [0645-set-mismatch](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0645-set-mismatch/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0905-sort-array-by-parity/) | Easy |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/3536-maximum-product-of-two-digits/) | Easy |
@@ -323,6 +326,7 @@
 | [0035-search-insert-position](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0035-search-insert-position/) | Easy |
 | [0069-sqrtx](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0069-sqrtx/) | Easy |
 | [0268-missing-number](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0268-missing-number/) | Easy |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
