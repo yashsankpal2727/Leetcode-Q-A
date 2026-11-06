@@ -17,6 +17,7 @@
 | [1189-maximum-number-of-balloons](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/1386-cinema-seat-allocation/) | Medium |
+| [2747-count-zero-request-servers](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/2747-count-zero-request-servers/) | Medium |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
@@ -158,6 +159,7 @@
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
+| [2747-count-zero-request-servers](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/2747-count-zero-request-servers/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
@@ -199,6 +201,7 @@
 | [0645-set-mismatch](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0645-set-mismatch/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0905-sort-array-by-parity/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
+| [2747-count-zero-request-servers](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/2747-count-zero-request-servers/) | Medium |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/3536-maximum-product-of-two-digits/) | Easy |
@@ -344,6 +347,7 @@
 | ------- | ------- |
 | [0219-contains-duplicate-ii](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0567-permutation-in-string](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0567-permutation-in-string/) | Medium |
+| [2747-count-zero-request-servers](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/2747-count-zero-request-servers/) | Medium |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## Counting Sort
