@@ -57,6 +57,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/1189-maximum-number-of-balloons/) | Easy |
+| [1267-count-servers-that-communicate](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 ## Math
 | Problem Name | Difficulty |
@@ -151,6 +152,7 @@
 | [0997-find-the-town-judge](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0997-find-the-town-judge/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1260-shift-2d-grid](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/1260-shift-2d-grid/) | Easy |
+| [1267-count-servers-that-communicate](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1301-number-of-paths-with-max-score](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
@@ -237,18 +239,21 @@
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1267-count-servers-that-communicate](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1267-count-servers-that-communicate](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/3310-remove-methods-from-project/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1267-count-servers-that-communicate](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 ## Graph Theory
@@ -263,6 +268,7 @@
 | [0037-sudoku-solver](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0037-sudoku-solver/) | Hard |
 | [0835-image-overlap](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0835-image-overlap/) | Medium |
 | [1260-shift-2d-grid](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/1260-shift-2d-grid/) | Easy |
+| [1267-count-servers-that-communicate](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1672-richest-customer-wealth](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/1672-richest-customer-wealth/) | Easy |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
