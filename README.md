@@ -240,6 +240,7 @@
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0100-same-tree](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0100-same-tree/) | Easy |
 | [1267-count-servers-that-communicate](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
@@ -247,6 +248,7 @@
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0100-same-tree](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0100-same-tree/) | Easy |
 | [1267-count-servers-that-communicate](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/3310-remove-methods-from-project/) | Medium |
@@ -367,10 +369,12 @@
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0100-same-tree](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0100-same-tree/) | Easy |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0100-same-tree](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0100-same-tree/) | Easy |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
