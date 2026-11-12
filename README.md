@@ -172,6 +172,7 @@
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
