@@ -109,6 +109,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0031-next-permutation](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0031-next-permutation/) | Medium |
 | [0042-trapping-rain-water](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0042-trapping-rain-water/) | Hard |
 | [0088-merge-sorted-array](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0125-valid-palindrome/) | Easy |
@@ -128,6 +129,7 @@
 | [0016-3sum-closest](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0018-4sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0031-next-permutation](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0031-next-permutation/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/yashsankpal2727/Leetcode-Q-A/tree/main/0035-search-insert-position/) | Easy |
